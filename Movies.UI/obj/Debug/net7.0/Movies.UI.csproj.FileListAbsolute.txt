@@ -1,0 +1,15 @@
+D:\160_GB_setup\Gold_Refresher\Movies.UI\bin\Debug\net7.0\Movies.UI.exe
+D:\160_GB_setup\Gold_Refresher\Movies.UI\bin\Debug\net7.0\Movies.UI.deps.json
+D:\160_GB_setup\Gold_Refresher\Movies.UI\bin\Debug\net7.0\Movies.UI.runtimeconfig.json
+D:\160_GB_setup\Gold_Refresher\Movies.UI\bin\Debug\net7.0\Movies.UI.dll
+D:\160_GB_setup\Gold_Refresher\Movies.UI\bin\Debug\net7.0\Movies.UI.pdb
+D:\160_GB_setup\Gold_Refresher\Movies.UI\obj\Debug\net7.0\Movies.UI.csproj.AssemblyReference.cache
+D:\160_GB_setup\Gold_Refresher\Movies.UI\obj\Debug\net7.0\Movies.UI.GeneratedMSBuildEditorConfig.editorconfig
+D:\160_GB_setup\Gold_Refresher\Movies.UI\obj\Debug\net7.0\Movies.UI.AssemblyInfoInputs.cache
+D:\160_GB_setup\Gold_Refresher\Movies.UI\obj\Debug\net7.0\Movies.UI.AssemblyInfo.cs
+D:\160_GB_setup\Gold_Refresher\Movies.UI\obj\Debug\net7.0\Movies.UI.csproj.CoreCompileInputs.cache
+D:\160_GB_setup\Gold_Refresher\Movies.UI\obj\Debug\net7.0\Movies.UI.dll
+D:\160_GB_setup\Gold_Refresher\Movies.UI\obj\Debug\net7.0\refint\Movies.UI.dll
+D:\160_GB_setup\Gold_Refresher\Movies.UI\obj\Debug\net7.0\Movies.UI.pdb
+D:\160_GB_setup\Gold_Refresher\Movies.UI\obj\Debug\net7.0\Movies.UI.genruntimeconfig.cache
+D:\160_GB_setup\Gold_Refresher\Movies.UI\obj\Debug\net7.0\ref\Movies.UI.dll
